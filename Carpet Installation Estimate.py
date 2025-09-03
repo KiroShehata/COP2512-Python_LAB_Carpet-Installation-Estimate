@@ -1,3 +1,4 @@
+#User Inputs
 carpet_price = float(input("Enter carpet price: "))
 room_width = int(input('Enter room width: '))
 room_length = int(input('Enter room length: '))
